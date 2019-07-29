@@ -1,4 +1,4 @@
-# jekyll-tdidf-related-posts
+# jekyll-tfidf-related-posts
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-tfidf-related-posts.svg)](https://rubygems.org/gems/jekyll-tfidf-related-posts)
 [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](LICENSE.txt)
@@ -7,14 +7,14 @@
 
 ### How to install
 
-1. Install the gem `jekyll-tdidf-related-posts`.
+1. Install the gem `jekyll-tfidf-related-posts`.
 ```
-$ gem install jekyll-tdidf-related-posts
+$ gem install jekyll-tfidf-related-posts
 ```
-2. Add `jekyll-tdidf-related-posts` plugin in `_config.xml`.
+2. Add `jekyll-tfidf-related-posts` plugin in `_config.xml`.
 ```yaml
 plugins:
-  - jekyll-tdidf-related-posts
+  - jekyll-tfidf-related-posts
 ```
 3. Run `jekyll build` or `jekyll serve`
 
