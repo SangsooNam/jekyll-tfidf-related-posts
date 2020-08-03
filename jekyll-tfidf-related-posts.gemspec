@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-tfidf-related-posts"
-  spec.version       = "0.1.3"
+  spec.version       = "0.1.7"
   spec.authors       = ["Sangsoo Nam"]
   spec.email         = ["sangsoo.ted@gmail.com"]
   spec.summary       = %q{Jekyll plugin to show related posts based on the content, tags, and categories.}
