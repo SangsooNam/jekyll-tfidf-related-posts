@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.files         = `git ls-files -z`.split("\x0")
   spec.require_paths = ["lib"]
 
-	spec.add_dependency "jekyll", "~> 3.0"
+  spec.add_dependency "jekyll", ">= 3.0"
   spec.add_dependency "stopwords-filter", "~> 0.4"
   spec.add_dependency "fast-stemmer", "~> 1.0"
   spec.add_dependency "pqueue", "~> 2.1"
